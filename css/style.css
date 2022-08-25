@@ -1,0 +1,18 @@
+/*font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Ubuntu', sans-serif;*/
+
+
+body{
+	background-color: #000;
+	font-family: 'Montserrat','Poppins','Ubuntu'sans-serif;;
+	
+}
+h1 h2 h3 h4 h5 h6{
+	color: white !important;
+
+}
+p{
+	color: lightgrey;
+}
